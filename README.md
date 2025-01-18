@@ -1,2 +1,2 @@
 # EDA
- Here, I have performed Exploratory Data Analysis (EDA) on the Titanic dataset from Kaggle to learn and gain a deeper understanding of EDA concepts.
+Here, I have performed Exploratory Data Analysis (EDA) on the Titanic dataset from Kaggle to learn and gain a deeper understanding of EDA concepts. EDA is a crucial step in the data analysis process, allowing us to explore and summarize the main characteristics of a dataset, often using visual methods. During this analysis, I focused on examining missing values, identifying trends, and exploring relationships between different features such as age, sex, class, and survival rate.This process allowed me to clean and preprocess the data, setting the foundation for building predictive models.
